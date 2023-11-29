@@ -1,0 +1,8 @@
+apiVersion: v2
+name: dev-base-app-networking-helm-chart
+type: application
+version: 1.0.0
+dependencies:
+  - name: base-app-networking-helm-chart
+    version: "0.1.0"
+    repository: "https://sinhasonalkumar.github.io/base-app-networking-helm-repository-argo-demo/"
