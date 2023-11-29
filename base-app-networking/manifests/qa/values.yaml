@@ -1,0 +1,2 @@
+base-app-networking-helm-chart:
+  enviroment: qa

@@ -3,4 +3,4 @@ dependencies:
   repository: https://sinhasonalkumar.github.io/base-app-networking-helm-repository-argo-demo/
   version: 0.1.0
 digest: sha256:6a8cb57f8a1aa44f56f9f20002545bab6fbf51ef6a3e7daa8c8e6a6b98afdb40
-generated: "2023-11-28T17:36:41.986158-07:00"
+generated: "2023-11-28T19:23:18.563192-07:00"
